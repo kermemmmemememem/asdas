@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.hizliresim.com	TRUE	/	FALSE	1999999999	__cfduid	d03ffebdd36c18861aac3a5469d87f91a1608218527
+i.hizliresim.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
